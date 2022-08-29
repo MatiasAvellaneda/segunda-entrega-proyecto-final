@@ -1,0 +1,15 @@
+.navNegro{
+    background-color: black;
+}
+
+.btncard{
+    width: 30%;
+    margin-left: 35%;
+    margin-bottom: 10px;
+}
+
+@media only screen and (min-width: 1250px) {
+    section .col{
+        
+    }
+}
